@@ -1,0 +1,9 @@
+body{
+    background-color: #ccc;
+}
+/* .card-header{
+    background-color: rgb(161, 164, 135);
+} */
+.errorlist{
+    color: red;
+}
